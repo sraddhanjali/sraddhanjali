@@ -22,7 +22,7 @@ Pleasure to e-meet you! :)
 - [Github URL](https://github.com/sraddhanjali)
 - [Google Scholar Page](https://scholar.google.com/citations?user=_BCCe2gAAAAJ&hl=en&authuser=2)
 - [Sphere Controller](https://www.notion.so/Sphere-Controller-Physics-Based-Interactive-Pattern-Recognition-in-Unity-1902126e760081c8b833daa4993a38b3?pvs=21)
-- [Perspective Correctio](https://www.notion.so/Automated-Perspective-Correction-for-Scanned-Documents-and-Cards-1902126e760081c6b2c5c64aad7bb544?pvs=21)n
+- [Perspective Correction](https://www.notion.so/Automated-Perspective-Correction-for-Scanned-Documents-and-Cards-1902126e760081c6b2c5c64aad7bb544?pvs=21)
 - [Aerial Cactus Identification](https://www.notion.so/Aerial-Cactus-Identification-1ae2126e760080a09500c3b0619c1815?pvs=21)
 
 **📫 Connect with Me**
