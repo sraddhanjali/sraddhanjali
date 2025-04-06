@@ -1,8 +1,7 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraddhanjali&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraddhanjali&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraddhanjali&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraddhanjali&layout=compact)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sraddhanjali)](https://github.com/anuraghazra/github-readme-stats)
 # 👋 Hi, I’m Sam!
 
 Pleasure to e-meet you! :)
