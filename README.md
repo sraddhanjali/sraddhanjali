@@ -28,7 +28,4 @@ Pleasure to e-meet you! :)
 **📫 Connect with Me**
 
 - [LinkedIn Profile](https://www.linkedin.com/in/sraddhanjali/)
-
-**Resume:**
-
-[Sam_Acharya_04062025.pdf](%F0%9F%91%8B%20Hi,%20I%E2%80%99m%20Sam!%201b32126e7600803ea938ffdc9353f3ac/Sam_Acharya___01272025-5.pdf)
+- [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac)
