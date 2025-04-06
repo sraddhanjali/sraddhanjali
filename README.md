@@ -1,6 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraddhanjali&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraddhanjali&layout=compact)
-
 # 👋 Hi, I’m Sam!
 
 Pleasure to e-meet you! :)
@@ -30,10 +28,6 @@ Pleasure to e-meet you! :)
 **📫 Connect with Me**
 
 - [LinkedIn Profile](https://www.linkedin.com/in/sraddhanjali/)
-
-**Working on:**
-
-- [Kaggle Competition](https://www.kaggle.com/competitions/stanford-rna-3d-folding)
 
 **Resume:**
 
