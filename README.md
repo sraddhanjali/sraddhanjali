@@ -17,15 +17,13 @@ Pleasure to e-meet you! :)
 - **Tools**: AWS  | Docker | Github Actions
 - **Other**: Data Modeling | Machine Learning | GenAI
 
-**Checkout my github and some writing:**
-
-- [Github URL](https://github.com/sraddhanjali)
-- [Google Scholar Page](https://scholar.google.com/citations?user=_BCCe2gAAAAJ&hl=en&authuser=2)
+**Checkout some of my writing:**
 - [Sphere Controller](https://www.notion.so/Sphere-Controller-Physics-Based-Interactive-Pattern-Recognition-in-Unity-1902126e760081c8b833daa4993a38b3?pvs=21)
 - [Perspective Correction](https://www.notion.so/Automated-Perspective-Correction-for-Scanned-Documents-and-Cards-1902126e760081c6b2c5c64aad7bb544?pvs=21)
 - [Aerial Cactus Identification](https://www.notion.so/Aerial-Cactus-Identification-1ae2126e760080a09500c3b0619c1815?pvs=21)
 
 **📫 Connect with Me**
-
+- [Github URL](https://github.com/sraddhanjali)
+- [Google Scholar Page](https://scholar.google.com/citations?user=_BCCe2gAAAAJ&hl=en&authuser=2)
 - [LinkedIn Profile](https://www.linkedin.com/in/sraddhanjali/)
 - [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac)
