@@ -3,8 +3,8 @@
 
 Pleasure to e-meet you! :)
 
-(Please find my resume :  - [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac))
 ⚙️ I am Sam and I specialize in bringing research into production for non-AI/non-tech businesses.
+(Please find my resume :  - [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac))
 
 **About Me**
 
