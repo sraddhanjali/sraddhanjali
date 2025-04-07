@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Sam!
 
 Pleasure to e-meet you! :)
-
+(Find my resume & About me:  - [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac))
 ⚙️ I am Sam and I specialize in bringing research into production for non-AI/non-tech businesses.
 
 **About Me**
@@ -26,4 +26,4 @@ Pleasure to e-meet you! :)
 - [Github URL](https://github.com/sraddhanjali)
 - [Google Scholar Page](https://scholar.google.com/citations?user=_BCCe2gAAAAJ&hl=en&authuser=2)
 - [LinkedIn Profile](https://www.linkedin.com/in/sraddhanjali/)
-- [Website](https://statuesque-nation-7ca.notion.site/Hi-I-m-Sam-1b32126e7600803ea938ffdc9353f3ac)
+
