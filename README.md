@@ -8,11 +8,15 @@ Most recently, I built and deployed an AI-driven on-call scheduler to reduce bur
 
 I specialize in full-stack ML engineering:
 
-  🛠️ Building pipelines for sensor-rich data
-  🧠 Training models with a mix of traditional ML and transformer-based workflows
-  🔄 Orchestrating agents using LangChain, LlamaIndex, and CrewAI
-  🚀 Deploying via Docker, FastAPI, AWS, Cloudflare and Streamlit
-  🧬 Integrating vector databases and multi-agent workflows with production-ready APIs.
+  - 🛠️ Building pipelines for sensor-rich data
+  
+  - 🧠 Training models with a mix of traditional ML and transformer-based workflows
+  
+  - 🔄 Orchestrating agents using LangChain, LlamaIndex, and CrewAI
+  
+  - 🚀 Deploying via Docker, FastAPI, AWS, Cloudflare and Streamlit
+  
+  - 🧬 Integrating vector databases and multi-agent workflows with production-ready APIs.
 
 My design approach blends security, edge-aware constraints, and human-centered design thinking. 
 I thrive at the intersection of AI, embedded sensing, and human performance.
