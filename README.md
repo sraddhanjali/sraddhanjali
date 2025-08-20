@@ -13,7 +13,7 @@ I specialize in full-stack LLMOps engineering:
 - 🔄 Orchestrating agents using LangChain, LlamaIndex, and CrewAI
 - 🚀 Deploying via Docker, FastAPI, AWS, Cloudflare and Streamlit
 - 🧬 Integrating vector databases and multi-agent workflows with production-ready APIs.
-- 
+
 My design approach blends security, edge-aware constraints, and human-centered design thinking. I thrive at the intersection of AI, embedded sensing, and human performance. Let’s collaborate on the future of health tech, biometrics, or cognitive AI.
 
 📬 Reach out at showupwithsam at gmail dot com.
