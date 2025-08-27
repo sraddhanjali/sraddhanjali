@@ -7,7 +7,7 @@ Hi my name is Sraddhanjali Acharya. My preferred name is Sam and I am a programm
 I am an applied machine learning engineer with a PhD in computer science and a foundation in electronics engineering (undergraduate degree). 
 
 Here are some of my work in the field of building novel wearables and studying their pros and cons towards behaviorial authentication and studying privacy risks/leaks through biometric sensing. [Google Scholar](https://scholar.google.com/citations?user=_BCCe2gAAAAJ&hl=en)
-In addition to research, I have used my foundational knowledge in Electronics and COmmunication from my undergraduate years to work on building my own hardware setups like two asynchronous smartgloves based typing wearable for research studies and also interface them with sensors data retrieval while live human data collection for IRB-based authentication studies. 
+In addition to research, I have used my foundational knowledge in Electronics and Communication from my undergraduate years to work on building my own hardware setups like two asynchronous smartgloves based typing wearable for research studies and also interface them with sensors data retrieval while live human data collection for IRB-based authentication studies. 
 To keep it short, I build intelligent systems that interface with the human body with applications in biometric authentication, medical scheduling, and embedded health monitoring.
 
 In my industry experience, I utilized my experience in system design to guide optimization in algorithms to save valuable resources and chip-level anomaly detection at Qualcomm.
